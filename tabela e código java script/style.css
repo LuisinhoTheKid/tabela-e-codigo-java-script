@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(211, 191, 15); 
+    text-decoration: #0ed42f;
+}
+
+#form-container {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid rgb(94, 94, 94);
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+
+}
+
+th {
+    background-color: #1be409;
+}
